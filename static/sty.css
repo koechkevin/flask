@@ -1,0 +1,53 @@
+.login{
+margin-top:10%;
+margin-left:30%;
+margin-right:30%;
+background-color:ffffff;
+border: 2px solid azure;
+padding: 10px 10px 10px 10px;
+border-radius:4px;
+}
+button{
+background-color:87ceeb;
+border:none;
+font-size:20px;
+font-color:white;
+width:250px;
+border-radius:4px;
+}
+.topnav{
+background-color:87ceeb;
+
+top:0;
+width:101%;
+font-size:36px
+
+}
+body{
+background-color:00002f;
+}
+li{
+float:right;
+border-right:3px solid 87ceeb;
+
+}
+li a{
+display:block;
+text-align:center;
+display:inline;
+padding:18px 32px;
+background-color:87cef2;
+text-decoration:none;
+}
+ul {
+position:fixed;
+top:0;
+width:100%;
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+
+text-align:left;
+
+}
